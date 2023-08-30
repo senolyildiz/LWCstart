@@ -1,4 +1,4 @@
-import { LightningElement } from 'lwc';
+import { LightningElement, track } from 'lwc';
 
 export default class MyFirstWebComponent extends LightningElement {}import { LightningElement } from 'lwc';
 export default class MyFirstWebComponent extends LightningElement {
